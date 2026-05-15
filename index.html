@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Metadata Extractor</title>
+</head>
+<body>
+
+<div class="container">
+  <h1>Research Paper Metadata Extractor</h1>
+
+  <div class="card">
+    <input type="file" id="pdf-upload" accept=".pdf" />
+  </div>
+
+  <div class="card">
+    <textarea id="citation" rows="5"
+      placeholder="Paste APA citation here..."></textarea>
+  </div>
+
+  <button id="export-btn">Export Metadata JSON</button>
+
+  <div id="output"></div>
+
+  <div class="logs" id="logs"></div>
+</div>
+
+<script type="module" src="/src/main.ts"></script>
+
+</body>
+</html>
