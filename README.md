@@ -7,7 +7,6 @@ The application is lightweight, fast, deployable on shared hosting, and designed
 ## Features
 - Upload PDF files directly in browser
 - Extract PDF metadata locally using PDF.js
-- Parse academic citations using regex
 - Export metadata as downloadable JSON
 - Responsive academic UI
 - Dark mode interface
