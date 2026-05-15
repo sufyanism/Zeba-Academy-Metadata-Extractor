@@ -1,11 +1,8 @@
 # Zeba Academy Metadata Extractor
-
 A browser-based scholarly metadata extraction utility built entirely with frontend technologies.  
 This project extracts metadata from research paper PDFs and academic citations directly inside the browser without using any backend, database, authentication system, or server-side processing.
-
 The application is lightweight, fast, deployable on shared hosting, and designed with a clean academic interface.
 
----
 
 ## Features
 - Upload PDF files directly in browser
@@ -18,8 +15,6 @@ The application is lightweight, fast, deployable on shared hosting, and designed
 - Zero backend architecture
 - Works fully offline after build
 
----
-
 ## Core Technologies
 
 - TypeScript
@@ -27,8 +22,6 @@ The application is lightweight, fast, deployable on shared hosting, and designed
 - PDF.js
 - HTML5
 - CSS3
-
----
 
 ## Project Structure
 
