@@ -15,7 +15,6 @@ The application is lightweight, fast, deployable on shared hosting, and designed
 - Works fully offline after build
 
 ## Core Technologies
-
 - TypeScript
 - Vite
 - PDF.js
@@ -31,8 +30,6 @@ project/
 │   ├── main.ts
 │   ├── parser.ts
 │   └── styles.css
-│
-│
 ├── index.html
 │
 ├── package.json
@@ -42,19 +39,19 @@ project/
 # Installation
 
 ## Clone repository:
-git clone https://github.com/sufyanism/Zeba-Academy-Metadata-Extractor.git
+`git clone https://github.com/sufyanism/Zeba-Academy-Metadata-Extractor.git`
 
 ## Move into project folder:
-cd Zeba-Academy-Metadata-Extractor
+`cd Zeba-Academy-Metadata-Extractor`
 
 ## Install dependencies:
-npm install
+`npm install`
 
 ## Run development server:
-npm run dev
+`npm run dev`
 
 ## Build Project
-npm run build
+`npm run build`
 
 ## Demo
 
