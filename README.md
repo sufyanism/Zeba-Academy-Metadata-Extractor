@@ -41,6 +41,7 @@ project/
 │
 ├── package.json
 └── vite.config.ts
+```
 
 # Installation
 
