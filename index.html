@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Metadata Extractor</title>
+</head>
+<body>
+
+<div class="container">
+
+<h1>Research Paper Metadata Extractor</h1>
+
+<div class="card">
+  <h2>Upload PDF</h2>
+  <input type="file" id="pdf-upload" accept=".pdf">
+</div>
+
+<div class="card">
+  <h2>Paste Citation</h2>
+
+  <textarea
+    id="citation"
+    rows="6"
+    placeholder="Example: Smith, J. (2024). AI Research Methods. Journal of AI Studies."
+  ></textarea>
+</div>
+
+<button id="export-btn">Export JSON</button>
+
+<div class="card">
+  <h2>Extracted Metadata</h2>
+
+  <table id="metadata-table">
+    <thead>
+      <tr>
+        <th>Field</th>
+        <th>Value</th>
+      </tr>
+    </thead>
+
+    <tbody></tbody>
+  </table>
+</div>
+
+<div class="logs" id="logs"></div>
+
+</div>
+
+<script type="module" src="/src/main.ts"></script>
+
+</body>
+</html>
