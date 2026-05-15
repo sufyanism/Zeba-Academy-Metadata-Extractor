@@ -3,7 +3,6 @@ A browser-based scholarly metadata extraction utility built entirely with fronte
 This project extracts metadata from research paper PDFs and academic citations directly inside the browser without using any backend, database, authentication system, or server-side processing.
 The application is lightweight, fast, deployable on shared hosting, and designed with a clean academic interface.
 
-
 ## Features
 - Upload PDF files directly in browser
 - Extract PDF metadata locally using PDF.js
@@ -54,7 +53,7 @@ project/
 `npm run build`
 
 ## Demo
-
+https://github.com/user-attachments/assets/be9fa178-39f3-4d15-a5bf-bdb9a03bfa88
 
 
 ## About Me 
