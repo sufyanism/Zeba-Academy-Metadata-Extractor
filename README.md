@@ -3,16 +3,10 @@ A fully frontend-based scholarly metadata extraction tool that runs entirely in 
 
 ## Features
 - Upload PDF files directly in browser
-- Extract PDF metadata locally using PDF.js
-- Parse academic citations using regex
+- Extract PDF metadata locally
 - Display metadata in responsive frontend tables
-- Export extracted metadata as JSON
 - Responsive academic UI
 - Dark mode interface
-- Fake terminal-style extraction logs
-- No backend architecture
-- No database required
-- Works entirely in browser
 
 ## Tech Stack
 - TypeScript
@@ -49,6 +43,10 @@ project/
 
 ## Install dependencies:
 `npm install`
+
+# Demo 
+https://github.com/user-attachments/assets/e233c15f-4eb1-49f2-80a4-85f325c713c4
+
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
