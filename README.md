@@ -31,13 +31,10 @@ project/
 ├── src/
 │   ├── main.ts
 │   ├── parser.ts
-│   ├── ui.ts
-│   ├── regex.ts
 │   └── styles.css
 │
-├── public/
 │
-├── dist/
+├── index.html
 │
 ├── package.json
 └── vite.config.ts
